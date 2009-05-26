@@ -1,0 +1,2 @@
+import inotifyreload
+inotifyreload.start()
