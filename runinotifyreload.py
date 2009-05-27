@@ -1,2 +1,3 @@
 import inotifyreload
-inotifyreload.start()
+
+inotifyreload.ReloadThread('/home/evan/code').start()
